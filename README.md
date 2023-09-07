@@ -40,7 +40,7 @@ Estas son las dependencias utilizadas en el proyecto "lovelace-backend" junto co
 
 Para que la aplicación funcione correctamente, necesitas obtener tu propia API KEY registrándote en los siguientes sitios web:
 
-- [OpenAI](https://openai.com/): Aquí puedes obtener la API KEY necesaria para acceder a los servicios de OpenAI.
+- [OpenAI](https://openai.com/): Aquí puedes obtener la API KEY necesaria para acceder a los servicios de OpenAI. **Nota**: En la actualidad, la API de OpenAI requiere un pago para su uso. Si el pago no se realiza, la aplicación no funcionará correctamente.
 - [MongoDB](https://www.mongodb.com/): Regístrate en MongoDB para crear y administrar tu base de datos, y obtén las credenciales de conexión necesarias.
 - [Cloudinary](https://cloudinary.com/): Regístrate en Cloudinary para gestionar tus recursos multimedia en la aplicación y obtén las credenciales de conexión necesarias.
 
@@ -58,9 +58,7 @@ Antes de ejecutar la aplicación, debes configurar las siguientes variables de e
 
 ## Autor
 
-_Las personas que ayudaron en el desarrollo de este proyecto:_
-
-- **Hamid Escalera** - _Trabajo Inicial & Documentación_ - [HamidGX](https://github.com/HamidGX)
+- **Hamid Escalera**: Trabajo Inicial & Documentación.
 
 ---
 
